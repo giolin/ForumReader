@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Forum Reader</string>
+    <string name="hello_world">Hello Forum Reader</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="list">
+        <item>Item 1</item>
+        <item>Item 2</item>
+        <item>Item 3</item>
+        <item>Item 4</item>
+        <item>Item 5</item>
+        <item>Item 6</item>
+        <item>Item 7</item>
+        <item>Item 8</item>
+    </string-array>
+    <string-array name="list2">
+        <item>Love 1</item>
+        <item>Love 2</item>
+        <item>Love 3</item>
+        <item>Love 4</item>
+        <item>Love 5</item>
+        <item>Love 6</item>
+        <item>Love 7</item>
+        <item>Love 8</item>
+    </string-array>
+
+    <string name="title_activity_gallery">GalleryActivity</string>
+
+</resources>
